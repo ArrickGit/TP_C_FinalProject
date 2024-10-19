@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1579265650 source:c:\users\arric\onedrive\desktop\codeblocks\lab13(final project)\data.c
+
+1580362779 source:c:\users\arric\onedrive\desktop\codeblocks\lab13(final project)\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1580802462 source:c:\users\arric\onedrive\desktop\codeblocks\lab13(final project)\menu.c
+
